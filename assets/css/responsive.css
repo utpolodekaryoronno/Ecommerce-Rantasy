@@ -1,0 +1,36 @@
+@media all and (max-width:1200px){
+    .silde-content h1 {
+        font-size: 34px;
+    }
+}
+@media all and (max-width:990px){
+    .single-product2{
+        margin-bottom: 3rem;
+    }
+    .single-product2 img{
+        text-align: center;
+        margin: auto;
+        width: 80%;
+    }
+    .latest-left{
+        margin-bottom: 4rem;
+    }
+    .product-heading{
+        margin-bottom: 4rem;
+    }
+}
+@media all and (max-width:767px){
+    .footer-content {
+        margin-bottom: 4rem;
+    }
+    .sale-product{
+        margin-bottom: 4rem;
+    }
+    .product-heading{
+        margin-top: 2rem;
+    }
+    .porduct-item ul li {
+        padding: 1rem 1.5rem;
+        font-size: 1.7rem;
+    }
+}
