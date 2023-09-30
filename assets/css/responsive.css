@@ -34,3 +34,12 @@
         font-size: 1.7rem;
     }
 }
+
+@media all and (max-width:575px){
+    .latest-left{
+        flex-direction: column;
+    }
+    .latest-content{
+        text-align: center;
+    }
+}
